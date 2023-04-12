@@ -1,0 +1,3 @@
+C:/Users/Home/Desktop/Univercity/lab 14/Test/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/Home/Desktop/Univercity/lab 14/Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Home/Desktop/Univercity/lab 14/Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
